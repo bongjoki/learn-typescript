@@ -1,0 +1,8 @@
+// 공식 문서 https://www.typescriptlang.org/tsconfig
+{
+  "compilerOptions": {
+    "allowJs": true, //프로젝트 안에 js파일 허용하는지
+    "checkJs": true, // @ts-check
+    "noImplicitAny": true // 모든 타입에 대해서 any라도 넣어야 한다
+  }
+}
